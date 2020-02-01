@@ -7,7 +7,6 @@ The objective of this tutorial is to look at how we can customise Flutter Widget
 We’re going to make a Body Mass Index Calculator inspired by the beautiful designs 
 
 First Screen
-https://www.mediafire.com/view/lucip0ctyic9xzw/Screenshot_20200201_032013_co.appbrewery.bmicalculator.jpg/file
-
+https://github.com/sobhy97/BodyMathIndex/blob/master/Screenshot_20200201_032013_co.appbrewery.bmicalculator.jpg
 Second screen 
 https://www.mediafire.com/view/kf4sedw52lhyhp1/Screenshot_20200201_032017_co.appbrewery.bmicalculator.jpg/file
