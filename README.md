@@ -9,4 +9,4 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 First Screen
 https://github.com/sobhy97/BodyMathIndex/blob/master/Screenshot_20200201_032013_co.appbrewery.bmicalculator.jpg
 Second screen 
-https://www.mediafire.com/view/kf4sedw52lhyhp1/Screenshot_20200201_032017_co.appbrewery.bmicalculator.jpg/file
+https://github.com/sobhy97/BodyMathIndex/blob/master/Screenshot_20200201_032017_co.appbrewery.bmicalculator.jpg
